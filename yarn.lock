@@ -47,10 +47,10 @@ tree-selector@^2.1.0:
   resolved "https://registry.yarnpkg.com/tree-selector/-/tree-selector-2.1.1.tgz#644af6c3aa361aabdd8ae545b58f82155884fc17"
   integrity sha512-NVFYU6YzyUHSMS7+qbhdHlBHG5P9IPjycQa+8MnIBDpq/UWEkMD+lAL/56x7Fty+mAq9SWgtg9D4flZfuOZdDg==
 
-typescript@^3.9.6:
-  version "3.9.6"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.6.tgz#8f3e0198a34c3ae17091b35571d3afd31999365a"
-  integrity sha512-Pspx3oKAPJtjNwE92YS05HQoY7z2SFyOpHo9MqJor3BXAGNaPUs83CuVp9VISFkSjyRfiTpmKuAYGJB7S7hOxw==
+typescript@^4.0.0-dev.20200709:
+  version "4.0.0-dev.20200709"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.0-dev.20200709.tgz#4edf4840f293825b5bac8aef12dcaa0008fd8e9d"
+  integrity sha512-pSK55zIBAl0lUJGV1UBXev/Pj0nozulZWul6A4aSM0QCCCRgfifd58RRGPPHW6jTf2RfnR8w40dnHvAdHBWgAw==
 
 "xstream@10.x || 11.x", xstream@11.x:
   version "11.12.0"
