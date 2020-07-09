@@ -1,0 +1,10 @@
+{
+  "name": "ts-remove-comment-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/dom": "^22.7.0",
+    "typescript": "^3.9.6"
+  }
+}
